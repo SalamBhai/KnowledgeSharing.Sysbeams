@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IncomeTaxCalculator", "IncomeTaxCalculator", "{24FF0284-9736-4EC8-9F45-CA9EC416C5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeTaxCalculator.Test", "IncomeTaxCalculator.Test\IncomeTaxCalculator.Test.csproj", "{F64DB262-165E-489D-80FE-CF2861A7735F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{CE293FE2-3464-4B80-8642-051BE88F5CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalIncomeTaxCalculator", "PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator.csproj", "{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeTaxCalculator.Api", "IncomeTaxCalculator.Api\IncomeTaxCalculator.Api.csproj", "{C1B32919-1E2B-4B75-95FE-65DA20194A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64DB262-165E-489D-80FE-CF2861A7735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64DB262-165E-489D-80FE-CF2861A7735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64DB262-165E-489D-80FE-CF2861A7735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64DB262-165E-489D-80FE-CF2861A7735F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B32919-1E2B-4B75-95FE-65DA20194A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B32919-1E2B-4B75-95FE-65DA20194A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B32919-1E2B-4B75-95FE-65DA20194A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B32919-1E2B-4B75-95FE-65DA20194A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE3D21BB-E1FD-4F03-84F2-03AA6F6AC89F} = {24FF0284-9736-4EC8-9F45-CA9EC416C5A2}
+		{F64DB262-165E-489D-80FE-CF2861A7735F} = {CE293FE2-3464-4B80-8642-051BE88F5CC0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\net6.0\PersonalIncomeTaxCalculator.deps.json
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\net6.0\PersonalIncomeTaxCalculator.dll
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\bin\Debug\net6.0\PersonalIncomeTaxCalculator.pdb
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.csproj.AssemblyReference.cache
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.AssemblyInfo.cs
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.dll
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\refint\PersonalIncomeTaxCalculator.dll
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\PersonalIncomeTaxCalculator.pdb
+c:\Users\user\Desktop\PersonalIncomeTaxCalculator\PersonalIncomeTaxCalculator\obj\Debug\net6.0\ref\PersonalIncomeTaxCalculator.dll
